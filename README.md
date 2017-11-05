@@ -111,7 +111,7 @@
 	当然这里出现的界面，如果想让自己的设置生效的话，这里点击保留更改。
 	![](https://i.imgur.com/HvhkXGZ.png)
 ### 4.2 数据导入导出
-	菜单功能上方为公告区域，包含导入、导出按钮：
+菜单功能上方为公告区域，包含导入、导出按钮：
 	数据导出：
 	![](https://i.imgur.com/iA4m5GK.png)
 	![](https://i.imgur.com/HegRBGY.png)
