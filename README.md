@@ -81,8 +81,47 @@
 ### 3.3 会员优惠价格处理
 
 ## 4.后台管理系统
-### 4.1 页面显示不全
+系统支持1024*768以上分辨率，包括1024*764
+	XP调整分辨率方法如下：
+	在电脑桌面的任意空白处点击右键-属性 
+	![](https://i.imgur.com/qE2TcPE.png)
+	点击设置 
+	![](https://i.imgur.com/oxvvEHB.png)
+	在设置里有一个屏幕分辨率，可以对数值进行调整
+	![](https://i.imgur.com/356VyPA.png)
+	调整之后点击确定，电脑的分辨率就改变了
+	![](https://i.imgur.com/sehCMSy.png)
+	win7/win8 调整分辨率方法如下：
+	在屏幕的空白处点击鼠标右键，在下拉菜单中点击“屏幕分辨率”。
+	![](https://i.imgur.com/QaORVIz.png)
+	这时，会弹出“屏幕分辨率”对话框。如果想简单设置的话，可以点击对话框中“分辨率”后面的黑色小三角，在下拉菜单中拉动小滑块来设置分辨率。
+	![](https://i.imgur.com/qIKpzBj.png)
+	win10调整分辨率方法如下：
+	在桌面空白处单击鼠标右键，弹出窗口选择显示设置打开进入
+	![](https://i.imgur.com/QzMry6w.png)
+	这个界面显示中，找到这里的高级显示设置进入，如图操作。
+	![](https://i.imgur.com/K8lae6y.png)
+	现在可以看到当前电脑显示器的分辨率
+	![](https://i.imgur.com/464lFw2.png)
+	根据自己需要选择你要设置的分辨率，非常简单。
+	![](https://i.imgur.com/RbRstlj.png)
+	现在点击这里的应用按钮，让自己的设置生效。
+	![](https://i.imgur.com/NYKSKHC.png)
+	当然这里出现的界面，如果想让自己的设置生效的话，这里点击保留更改。
+	![](https://i.imgur.com/HvhkXGZ.png)
 ### 4.2 数据导入导出
+	菜单功能上方为公告区域，包含导入、导出按钮：
+	数据导出：
+	![](https://i.imgur.com/iA4m5GK.png)
+	![](https://i.imgur.com/HegRBGY.png)
+	数据导入：
+	![](https://i.imgur.com/E9YAvhU.png)
+	下载导入模板
+	![](https://i.imgur.com/hMR9G68.png)
+	按照模板把数据整理完成，进行导入
+	![](https://i.imgur.com/bxT6G8d.png)
+	![](https://i.imgur.com/4OzdLut.png)
+	由于部分模板包含样列，故所有导入模板都是从第4行数据开始导入数据。
 ### 4.3 智能采购
 ### 4.4 集采活动
 ### 4.5 登录提示账号密码错误
